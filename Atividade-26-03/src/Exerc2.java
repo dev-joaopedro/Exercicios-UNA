@@ -16,7 +16,7 @@ public class Exerc2 {
                 System.out.println(dia + " de janeiro de " + ano);
                 break;
             case 2:
-            System.out.println(dia + " de fevereiro de " + ano);
+                System.out.println(dia + " de fevereiro de " + ano);
                 break;
             case 3:
                 System.out.println(dia + " de março de " + ano);
