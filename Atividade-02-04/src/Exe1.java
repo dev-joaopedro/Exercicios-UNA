@@ -17,4 +17,5 @@ public class Exe1{
       k++;
     }while (k <= 100);
     }
+    
 }
